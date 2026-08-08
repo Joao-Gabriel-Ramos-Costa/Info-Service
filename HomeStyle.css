@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    font-weight: 600;
+    color: #004AAD;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.card-title {
+    font-weight: bold;
+    color: #004AAD;
+}
+
+.btn-primary {
+    background-color: #004AAD;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #003080;
+}
+
+.text-highlight {
+    color: #009688;
+    font-weight: bold;
+}
+
+
+#carouselExampleRide {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto; 
+}
+
+
+.carousel-item img {
+    width: 100%;
+    height: auto; 
+    max-height: 500px; 
+    object-fit: cover; 
+}
+
+header {
+    padding: 0;
+    margin: 0;
+}
+
+
+.carousel-inner {
+    border-radius: 10px; 
+    overflow: hidden; 
+}
